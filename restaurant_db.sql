@@ -1,4 +1,4 @@
--- SQL Script: Restaurant Customer Behavior Analysis
+-- SQL Script: Restaurant Customer Behavior Analysis --
 
 
 select *
